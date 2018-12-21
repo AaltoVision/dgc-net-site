@@ -17,8 +17,11 @@ available soooon
       title = {{DGC-Net}: {D}ense geometric correspondence network},
      author = {Melekhov, Iaroslav and Tiulpin, Aleksei and 
      
-               Sattler, Torsten, 
-               and Pollefeys, Marc and Rahtu, Esa 
+               Sattler, Torsten, and 
+               
+               Pollefeys, Marc and 
+               
+               Rahtu, Esa 
                and Kannala, Juho},
        year = {2019},
   booktitle = {Proceedings of the IEEE Winter Conference on 
