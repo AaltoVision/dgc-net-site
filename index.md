@@ -15,7 +15,8 @@ available soooon
 ```
 @inproceedings{Melekhov+Tiulpin+Sattler+Pollefeys+Rahtu+Kannala:2018,
       title = {{DGC-Net}: {D}ense geometric correspondence network},
-     author = {Melekhov, Iaroslav and Tiulpin, Aleksei and Sattler, Torsten, and Pollefeys, Marc and Rahtu, Esa 
+     author = {Melekhov, Iaroslav and Tiulpin, Aleksei and Sattler, Torsten, 
+               and Pollefeys, Marc and Rahtu, Esa 
                and Kannala, Juho},
        year = {2019},
   booktitle = {Proceedings of the IEEE Winter Conference on 
