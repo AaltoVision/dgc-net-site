@@ -18,11 +18,9 @@ available soooon
      author = {Melekhov, Iaroslav and Tiulpin, Aleksei and 
      
                Sattler, Torsten, and 
-               
                Pollefeys, Marc and 
-               
-               Rahtu, Esa 
-               and Kannala, Juho},
+               Rahtu, Esa and
+               Kannala, Juho},
        year = {2019},
   booktitle = {Proceedings of the IEEE Winter Conference on 
                Applications of Computer Vision (WACV)}
