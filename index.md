@@ -6,6 +6,10 @@ This paper addresses the challenge of dense pixel correspondence estimation betw
 
 [arXiv pre-print](https://arxiv.org/abs/1810.08393)
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xnQMEr4FbHE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## Source
 available soooon
 
