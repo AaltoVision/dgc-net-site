@@ -8,7 +8,11 @@ This paper addresses the challenge of dense pixel correspondence estimation betw
 
 ## Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xnQMEr4FbHE/0.jpg)](https://www.youtube.com/watch?v=xnQMEr4FbHE)
+[![Spotlight video](https://img.youtube.com/vi/xnQMEr4FbHE/0.jpg)](https://www.youtube.com/watch?v=xnQMEr4FbHE)
+
+## Poster
+
+[![WACV poster]({{ site.baseurl }}/dgcnet_poster_teaser.png)](https://drive.google.com/file/d/1risH0VeNAI4qPg-hfinrRAathTDGIbrM/view?usp=sharing)
 
 ## Source
 available soooon
