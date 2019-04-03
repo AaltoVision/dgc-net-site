@@ -15,7 +15,7 @@ This paper addresses the challenge of dense pixel correspondence estimation betw
 [![WACV poster]({{ site.baseurl }}/dgcnet_poster_teaser.png)](https://drive.google.com/file/d/1risH0VeNAI4qPg-hfinrRAathTDGIbrM/view?usp=sharing)
 
 ## Source
-available soooon
+[github repo](https://github.com/AaltoVision/DGC-Net)
 
 ## Referencing
 
